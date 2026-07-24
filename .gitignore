@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Allow Git LFS tracking file and documentation
+!.gitignore
+!.gitattributes
+!README.md
+!README.txt
+
+# Allow only the standalone release executable
+!TLIMLChiefNameOptimizer.exe
